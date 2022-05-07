@@ -1,1 +1,1 @@
-# shn-notion
+# Goals Planner

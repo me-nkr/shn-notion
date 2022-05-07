@@ -1,0 +1,21 @@
+{
+  "name": "shn-notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-nkr/shn-notion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-nkr/shn-notion/issues"
+  },
+  "homepage": "https://github.com/me-nkr/shn-notion#readme"
+}
