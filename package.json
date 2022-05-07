@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/me-nkr/shn-notion/issues"
   },
-  "homepage": "https://github.com/me-nkr/shn-notion#readme"
+  "homepage": "https://github.com/me-nkr/shn-notion#readme",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "express": "^4.18.1"
+  }
 }
