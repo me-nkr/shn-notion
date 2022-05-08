@@ -6,7 +6,7 @@ const router = Router();
 router.get('/verify/:database', verify);
 router.post('/init/:database', init);
 
-router.get('/database/:dataase', getGoals);
+router.get('/database/:database', getGoals);
 
 router.get('/goals/:goal', getGoal);
 router.post('/goals/', createGoal);
